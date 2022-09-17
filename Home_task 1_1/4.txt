@@ -1,0 +1,6 @@
+https://developer.mozilla.org/ru/search?q=URL -идентификатор якоря.
+https://developer.mozilla.org/ru/docs/Learn  - несколько вложений
+https://forms.yandex.ru/u/5e2ac2d850bdb705c38ed14f/?answer_short_text_1685088=Вася+Пупкин&answer_choices_1685184=1958524 несколько GEt -параметров.
+
+
+
